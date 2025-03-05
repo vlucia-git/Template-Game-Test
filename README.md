@@ -45,5 +45,5 @@ Veja um exemplo de um documento preenchido na pasta [`Exemplos/`](Exemplos/).
 Se quiser sugerir melhorias no template, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*! 🚀
 
 ---
-✍️ Criado por [Seu Nome](https://github.com/seu-usuario)
+✍️ Criado por [Lúcia Lima](https://github.com/vlucia-git)
 
